@@ -18,5 +18,4 @@
 ## IDE
 <img src="https://skills.syvixor.com/api/icons?i=androidstudio&perline=12&radius=40"><br>
 ## Framework & Language
-<img src="https://skills.syvixor.com/api/icons?i=flutter&perline=12&radius=40"/>
-<img src="https://skills.syvixor.com/api/icons?i=dart&perline=12&radius=40"><br>
+<img src="https://skills.syvixor.com/api/icons?i=dart,flutter&perline=12&radius=40"/>
