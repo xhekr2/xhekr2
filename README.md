@@ -9,17 +9,14 @@
 
 <br>
 
-## :gem: About ME
-
 > :ocean: **Flutter**: Flutter 개발을 정말 좋아합니다. <br>
-:flying_disc: **Velog**: <a href="https://velog.io/@xhekr2/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white" valign="middle"/></a> 내가 배운 내용을 다른 사람들도 이해할 수 있게끔 작성하고 있습니다.<br>
+:flying_disc: **Velog**: <a href="https://velog.io/@xhekr2/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white" valign="middle"/></a> 플러터를 배우며 새롭게 알게 된 내용들을 정리했습니다. <br>
 :envelope: **Contact**: s26048@gsm.hs.kr
 
 <br>
 
 ## IDE
 <img src="https://skills.syvixor.com/api/icons?i=androidstudio&perline=12&radius=40"><br>
-## Framework
-<img src="https://skills.syvixor.com/api/icons?i=flutter&perline=12&radius=40"/><br>
-## Language
+## Framework & Language
+<img src="https://skills.syvixor.com/api/icons?i=flutter&perline=12&radius=40"/>
 <img src="https://skills.syvixor.com/api/icons?i=dart&perline=12&radius=40"><br>
