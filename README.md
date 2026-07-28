@@ -17,8 +17,9 @@
 
 <br>
 
-## :tools:
-### IDE
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/><br>
-### Framework
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+## IDE
+<img src="https://skills.syvixor.com/api/icons?i=androidstudio&perline=12&radius=40"><br>
+## Framework
+<img src="https://skills.syvixor.com/api/icons?i=flutter&perline=12&radius=40"/><br>
+## Language
+<img src="https://skills.syvixor.com/api/icons?i=dart&perline=12&radius=40"><br>
