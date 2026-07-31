@@ -9,7 +9,7 @@
 
 <br>
 
-> :ocean: **Flutter**: Flutter 개발을 정말 좋아합니다. <br>
+> :ocean: **Flutter**: 가독성이 좋은 코드 개발을 선호합니다. <br>
 :flying_disc: **Velog**: <a href="https://velog.io/@xhekr2/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white" valign="middle"/></a> 플러터를 배우며 새롭게 알게 된 내용들을 정리했습니다. <br>
 :envelope: **Contact**: s26048@gsm.hs.kr
 
